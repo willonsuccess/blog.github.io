@@ -6,24 +6,32 @@ order: 4
 
 <!-- ![About](/assets/img/headers/digitalden2.webp) -->
 
-Привет, я Уилл — вечный ученик, книжный червь и создатель контента, увлечённый тем, чтобы извлекать мощные идеи из великих книг и превращать их в практические инсайты.
+# 👋 Hi, I’m Will
 
-Этот блог — место, где я делюсь глубокими обзорами, краткими конспектами и размышлениями о книгах, которые расширили мой кругозор — от технологий и продуктивности до психологии, лидерства и даже немного квантовой физики. Независимо от того, хотите ли вы изучать вечную классику или открыть для себя скрытые жемчужины, моя цель — сделать лучшие идеи с книжной полки более доступными и применимыми в реальной жизни.
+A lifelong learner, bookworm, and content creator passionate about extracting powerful ideas from great books and turning them into practical insights.
 
-## Что вы найдёте здесь
+This blog is where I share deep reviews, concise summaries, and reflections on books that have expanded my thinking — from technology and productivity to psychology, leadership, and even a touch of quantum physics. Whether you want to dive into timeless classics or uncover hidden gems, my goal is to make the best ideas from the bookshelf more accessible and applicable to real life.
 
-Я разбираю книги на:
+---
 
-- **Конспекты**: Краткие и ёмкие пересказы ключевых идей  
-- **Инсайты**: Личные размышления и то, как я применяю идеи в повседневной жизни  
-- **Тематические гиды**: Подборки книг по темам (например, принятие решений, инновации, системное мышление)
+## 📚 What You’ll Find Here
 
-## Контакты
+I break books down into:
 
-Если у вас есть вопросы, предложения или вы просто хотите пообщаться — я всегда рад новым знакомствам!
- 
-💬 **Telegram**: [@will_reads](https://t.me/will_reads)  
+- **Summaries** — Concise and digestible takeaways of key ideas  
+- **Insights** — Personal reflections and how I apply concepts in everyday life  
+- **Thematic Guides** — Curated book lists on topics like decision-making, innovation, and systems thinking
 
-## Дисклеймер
+---
 
-Некоторые ссылки на книги и продукты на этом сайте являются партнёрскими (affiliate links). Это значит, что если вы перейдёте по такой ссылке и совершите покупку, я могу получить небольшую комиссию — без дополнительной стоимости для вас. Это помогает поддерживать блог и продолжать делиться полезным контентом. Спасибо за вашу поддержку!
+## 📬 Get in Touch
+
+If you have questions, suggestions, or just want to connect — I’m always happy to hear from you!
+
+💬 **Telegram**: [@will_reads](https://t.me/will_reads)
+
+---
+
+## ⚠️ Disclaimer
+
+Some links to books and products on this site are affiliate links. That means if you click through and make a purchase, I may earn a small commission — at no extra cost to you. It helps support the blog and keeps the content flowing. Thank you for your support!
